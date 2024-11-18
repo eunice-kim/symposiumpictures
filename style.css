@@ -40,7 +40,7 @@ body {
 
 #mainimg {
   width:10vw;
-  animation: rotate 100s infinite;
+  /*animation: rotate 100s infinite;*/
 }
 
 @keyframes rotate {
