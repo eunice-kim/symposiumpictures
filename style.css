@@ -21,11 +21,6 @@ html, body {
 body {
   width:100vw;
   height:100vh;
-  background-color:#800606;
-  color:#00dbc9;
-  /* background-color:#121169;
-  color:#ff0000; */
-  font-family:'Helvetica Neue', Helvetica, sans-serif;
   display:flex;
   flex-flow:column nowrap;
 }
@@ -38,19 +33,11 @@ body {
   width:100vw;
   height:100vh;
   display:flex;
+  background-color:#960303;
 }
 
   #logo {
     font-family: homage-condensed, serif;
-    font-size:500px;
+    font-size:35vw;
+    color:#00dbc9;
   }
-
-/* #mainimg {
-  width:10vw;
-  min-width:100px;
-} */
-
-@keyframes rotate {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(359deg); }
-}
