@@ -15,7 +15,7 @@ function showInfo() {
       info.style.opacity=1;
       setTimeout(function() {
         contact.style.opacity=1;
-      },250);
+      },500);
     },500);
   },50);
 }
